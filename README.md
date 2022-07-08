@@ -1,3 +1,3 @@
 # Hello World!
 
-This is my first commit at GithuB!
+This is my first commit at Github!
